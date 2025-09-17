@@ -66,5 +66,5 @@ Prerequisites
 ---
 
 📜 License
-This project is for educational purposes under EKT 224 – Algorithm and Data Structures coursework.
-You may modify and use this project for learning, but proper credit to the author is appreciated.
+- This project is for educational purposes under EKT 224 – Algorithm and Data Structures coursework.
+- You may modify and use this project for learning, but proper credit to the author is appreciated.
