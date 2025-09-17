@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1608624533 source:c:\users\user\desktop\a2\as2\main.c
+	"movieList.h"
+	"ticketList.h"
+
+1608621621 c:\users\user\desktop\a2\as2\movielist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608621666 c:\users\user\desktop\a2\as2\ticketlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608621531 source:c:\users\user\desktop\a2\as2\movielist.c
+	"./movieList.h"
+
+1608621567 source:c:\users\user\desktop\a2\as2\ticketlist.c
+	"ticketList.h"
+
+1608703001 source:c:\users\user\desktop\algorithm assignment 2\movielist.c
+	"./movieList.h"
+
+1608699625 c:\users\user\desktop\algorithm assignment 2\movielist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608702175 source:c:\users\user\desktop\algorithm assignment 2\ticketlist.c
+	"ticketList.h"
+
+1608699513 c:\users\user\desktop\algorithm assignment 2\ticketlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608876768 source:c:\users\user\desktop\algorithm assignment 2\main.c
+	"movieList.h"
+	"ticketList.h"
+
+1609048030 source:c:\users\user\desktop\cinema coding\main.c
+	"movieList.h"
+	"ticketList.h"
+
+1608888102 c:\users\user\desktop\cinema coding\movielist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608895763 c:\users\user\desktop\cinema coding\ticketlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608888102 source:c:\users\user\desktop\cinema coding\movielist.c
+	"./movieList.h"
+
+1608702175 source:c:\users\user\desktop\cinema coding\ticketlist.c
+	"ticketList.h"
+
+1609048030 source:c:\users\user\desktop\algorithm assignment 2\assignment 2 coding (tan yi jie 191020976)\main.c
+	"movieList.h"
+	"ticketList.h"
+
+1608888102 c:\users\user\desktop\algorithm assignment 2\assignment 2 coding (tan yi jie 191020976)\movielist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608895763 c:\users\user\desktop\algorithm assignment 2\assignment 2 coding (tan yi jie 191020976)\ticketlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608888102 source:c:\users\user\desktop\algorithm assignment 2\assignment 2 coding (tan yi jie 191020976)\movielist.c
+	"./movieList.h"
+
+1608702175 source:c:\users\user\desktop\algorithm assignment 2\assignment 2 coding (tan yi jie 191020976)\ticketlist.c
+	"ticketList.h"
+
+1608888102 source:c:\users\user\desktop\university\sem 3\ekt 224 - algorithm and data structures\algorithm assignment 2\assignment 2 coding (tan yi jie 191020976)\movielist.c
+	"./movieList.h"
+
+1608888102 c:\users\user\desktop\university\sem 3\ekt 224 - algorithm and data structures\algorithm assignment 2\assignment 2 coding (tan yi jie 191020976)\movielist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608702175 source:c:\users\user\desktop\university\sem 3\ekt 224 - algorithm and data structures\algorithm assignment 2\assignment 2 coding (tan yi jie 191020976)\ticketlist.c
+	"ticketList.h"
+
+1608895763 c:\users\user\desktop\university\sem 3\ekt 224 - algorithm and data structures\algorithm assignment 2\assignment 2 coding (tan yi jie 191020976)\ticketlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
