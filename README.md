@@ -51,20 +51,20 @@ All data (movies and tickets) is stored in text files, allowing persistence betw
 
 ---
 
-- 🚀 Installation & Compilation
+## 🚀 Installation & Compilation
 Prerequisites
 - GCC or any C compiler.
 - Make utility (if using the provided Makefile).
 
 ---
 
-💡 Suggested Improvements (Optional)
+## 💡 Suggested Improvements (Optional)
 - GUI Version: Build a graphical interface using GTK or ncurses for a better user experience.
 - Database Support: Replace text file storage with SQLite for scalability.
 - Automated Testing: Add unit tests for core functions (insert, delete, booking, etc.).
 
 ---
 
-📜 License
+## 📜 License
 - This project is for educational purposes under EKT 224 – Algorithm and Data Structures coursework.
 - You may modify and use this project for learning, but proper credit to the author is appreciated.
